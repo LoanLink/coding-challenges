@@ -1,7 +1,7 @@
 # 🍪 Loanlink Web Engineering Challenge
 
 ## Overview
-Grandma wants to store all of her family recipes, but keeps losing her old recipe book. We're going to bring grandma into the digital age and build her a web app where she can keep her recipes on the web.
+Grandma wants to store all of her family recipes, but keeps losing her old recipe book. We're brinding grandma into the digital age by building her a web app where she can keep her recipes on the web!
 
 
 
@@ -14,7 +14,7 @@ Grandma isn't picky, there are only a few things she needs:
 - [ ] Allow her to remove an existing recipe
 - [ ] Provide an endpoint to list all saved recipes in JSON format _(We're not sure why grandma needs this one, but let's not question her)_
 
-Because this is a prorotype for Grandma, we don't need to be concerned with using a real database (it's ok if we lose data when the app shuts down), and she isn't very picky about how the app looks.
+Because this is a prorotype for Grandma we don't need to be concerned with using a real database (it's ok if we lose data when the app shuts down) and she isn't very picky about how the app looks.
 
 
 
