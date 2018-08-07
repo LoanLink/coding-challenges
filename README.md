@@ -1,6 +1,6 @@
 # Loanlink Code Challenges
 
-The 12traits Code Challenge is an opportunity to demonstrate proficiency with problem solving, collaboration skills, and curiosity we would expect you to demonstrate at Loanlink.
+The Loanlink Code Challenge is an opportunity to demonstrate proficiency with problem solving, collaboration skills, and curiosity we would expect you to demonstrate at Loanlink.
 
 The challenge forms the foundation for further technical interviews as well as ideally onsite collaboration during your interview process.
 
