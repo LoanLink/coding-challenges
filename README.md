@@ -35,3 +35,5 @@ Reviewing the application we'll look at the following aspects:
 - **Technical decisions:** Do choices of libraries, algorithms, and architecture seem appropriate for the challenge?
 
 
+### Current Challenges
+- [Web Engineer Challenge](https://github.com/LoanLink/coding-challenges/blob/master/web-challenge.md)
