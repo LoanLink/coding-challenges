@@ -26,5 +26,6 @@ Because this is a prorotype for Grandma we don't need to be concerned with using
 - What are you missing / what would you improve?
 
 
- 👵 Read more about [what we care about when evaluating code challenges](https://github.com/LoanLink/coding-challenges). 
+
+ 👵 *Read more about [what we care about when evaluating code challenges](https://github.com/LoanLink/coding-challenges).* 
 
