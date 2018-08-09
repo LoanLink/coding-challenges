@@ -15,7 +15,7 @@ We want to be mindful of your time and would appreciate it if you spend no more 
 
 
 #### Your Challenge README
-Include the following in your README:
+Documentation will be a primary evaluation criteria. Include the following in your README:
 
 - A description of the problem and solution.
 - The reasoning behind your technical decisions: trade-offs you might have made, anything you left out, or what you might do differently if you had additional time.
