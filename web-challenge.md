@@ -9,7 +9,7 @@ Grandma wants to store all of her family recipes, but keeps losing her old recip
 
 Grandma isn't picky, there are only a few things she needs:
 
-- [ ] Allow her add new receipes (If the page is refreshed, the saved recipes should persist)
+- [ ] Allow her add new receipes (In a browser - if the page is refreshed, the saved recipes should persist)
 - [ ] Allow her user edit an existing recipe (in a browser)
 - [ ] Allow her to remove an existing recipe (in a browser)
 - [ ] Provide an endpoint to list all saved recipes in JSON format _(We're not sure why grandma needs this one, but let's not question her)_
