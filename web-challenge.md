@@ -1,7 +1,7 @@
 # 🍪 Loanlink Web Engineering Challenge
 
 ## Overview
-Grandma wants to store all of her family recipes, but keeps losing her old recipe book. We're brinding grandma into the digital age by building her a web app where she can keep her recipes on the web!
+Grandma wants to store all of her family recipes, but keeps losing her old recipe book. We're bringing grandma into the digital age by building her a web app where she can keep her recipes on the web!
 
 
 
