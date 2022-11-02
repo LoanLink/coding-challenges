@@ -14,7 +14,7 @@ Grandma isn't picky, there are only a few things she needs:
 - [ ] Allow her to remove an existing recipe (in a browser)
 - [ ] Provide an endpoint to list all saved recipes in JSON format _(We're not sure why grandma needs this one, but let's not question her)_
 
-Because this is a prorotype for Grandma we don't need to be concerned with using a real database (it's ok if we lose data when the app shuts down) and she isn't very picky about how the app looks.
+Because this is a prototype for Grandma we don't need to be concerned with using a real database (it's ok if we lose data when the app shuts down) and she isn't very picky about how the app looks.
 
 
 
